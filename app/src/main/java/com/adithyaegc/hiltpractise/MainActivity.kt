@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is one more commit")
+
+        need to install windows 7 os
     }
 }
