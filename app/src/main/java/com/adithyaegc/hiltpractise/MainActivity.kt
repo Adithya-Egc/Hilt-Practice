@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is one more commit")
-    }
 
-    one more time
+        println("Inside the New Branch")
+    }
 }
